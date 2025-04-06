@@ -1,4 +1,3 @@
-# xfbin_rebuilder
 # .xfbin Rebuilder
 
 ## Overview
